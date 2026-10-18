@@ -6,7 +6,7 @@ Sudan. It holds a short conversation, corrects spelling mistakes, and refuses to
 give medicine doses or handle emergencies itself.
 
 - **Live system:** https://huggingface.co/spaces/Ariik/south-sudan-health-qa
-- **Demo video:** _link added after recording_
+- **Demo video:** https://drive.google.com/drive/folders/1DDdzsTUSOdSNf2xHE-DmwC0i2lvbmYEu?usp=sharing
 
 **This is not a medical tool.** It gives general health information only, and it can be wrong.
 See [Limitations](#limitations).
