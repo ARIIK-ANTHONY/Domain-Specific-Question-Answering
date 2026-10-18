@@ -7,7 +7,6 @@ give medicine doses or handle emergencies itself.
 
 - **Live system:** _link added after deployment_
 - **Demo video:** _link added after recording_
-- **Report:** _link added after submission_
 
 **This is not a medical tool.** It gives general health information only, and it can be wrong.
 See [Limitations](#limitations).
