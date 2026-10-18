@@ -1,0 +1,9 @@
+test_subset,system,exact_match,token_f1,rougeL,avg_words
+fixed 20 (as Runs A-D),"F0 - Qwen2.5-1.5B-Instruct, zero-shot",0.0,0.1417,0.1023,83.25
+fixed 20 (as Runs A-D),F0+RAG - zero-shot + retrieval (k=3),0.0,0.1268,0.097,77.8
+fixed 20 (as Runs A-D),F - Qwen2.5-1.5B + LoRA (AfriMed-QA),0.0,0.1381,0.1249,30.2
+fixed 20 (as Runs A-D),F+RAG - LoRA + retrieval (k=3),0.0,0.1534,0.1251,31.45
+full test set (386),"F0 - Qwen2.5-1.5B-Instruct, zero-shot",0.0,0.1328,0.0908,91.7927
+full test set (386),F0+RAG - zero-shot + retrieval (k=3),0.0,0.1419,0.0977,85.3264
+full test set (386),F - Qwen2.5-1.5B + LoRA (AfriMed-QA),0.0,0.1465,0.1196,29.0466
+full test set (386),F+RAG - LoRA + retrieval (k=3),0.0,0.144,0.114,33.2047

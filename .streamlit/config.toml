@@ -1,0 +1,7 @@
+[server]
+# Don't watch library files for changes: Streamlit otherwise scans every transformers module
+# and prints a "No module named 'torchvision'" traceback for each one.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

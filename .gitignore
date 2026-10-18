@@ -1,0 +1,19 @@
+# Python
+.venv*/
+__pycache__/
+*.pyc
+
+# Training scratch (checkpoints etc.), not the final model
+notebooks/run_outputs/
+
+# FLAN-T5 models are too big for git (GitHub's 100 MB per-file limit).
+# The LoRA adapter in model/qwen2.5-1.5b-afrimedqa-lora/ (~74 MB) is committed on purpose.
+model/flan-t5-base-afrimedqa/
+model/flan-t5-large-afrimedqa/
+
+# OS
+.DS_Store
+
+# Local tool folders
+.pytest_cache/
+.vscode/

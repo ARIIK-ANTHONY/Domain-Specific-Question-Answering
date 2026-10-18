@@ -1,0 +1,127 @@
+input_text,target_answer,baseline_prediction,finetuned_prediction,expD_prediction,category
+"answer the following health question in simple language for a general audience: 76-Year-old man with shortness of breath and at rest for 3 weeks. Smoker with 24 Pack Years heavy alcohol. On exam tachypneic Respiratory Rate 34, Pulse rate 102 BP 112/89. 
+a) 4 Possible causes of the condition 
+-","1. pulmonary TB 
+2. Lung cancer 
+3. bronchitis 
+4. heart failure",a) a) a) a) a) a) a) a) b) a) b) c) d) a) b) c) d) a) b) c) d) a) b) c) d) a) b) c) d) a) b) c) d) a) b) c) d) a) b) c) d) a) b,"a) 4 Possible causes of the condition - Smoker with 24 Pack Years heavy alcohol. On exam tachypneic Respiratory Rate 34, Pulse rate 102 BP 112/89. a) 4 Possible causes of the condition - Smoker with 24 Pack Years heavy alcohol. On exam tachypneic Respiratory Rate 34, Pulse rate 102 BP 112/89. a) 4 Possible causes of the condition - Smoker with 24 Pack Years heavy alcohol. On exam tachypneic Respiratory Rate 34, Pulse rate ","(a) 4 Possible causes of the condition: (a) Smoker with 24 Pack Years heavy alcohol. On exam tachypneic Respiratory Rate 34, Pulse rate 102 BP 112/89. (a) 4 Possible causes of the condition: (a) Smoker with 24 Pack Years heavy alcohol. On exam tachypneic Respiratory Rate 34, Pulse rate 102 BP 112/89. (a) 4 Possible causes of the condition: (a) Smoker with 24 Pack Years heavy alcohol. On exam tachypneic Respiratory Rate 34",incomplete
+answer the following health question in simple language for a general audience: What are the complications of schistosomiasis?,"-Strictures
+-bladder cancer",The schistosomiasis is caused by a mutation in the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of the chromosomes of,"Complications of schistosomiasis include fever, headache, and nausea.","Complications of schistosomiasis include diarrhea, vomiting, and neurological impairment.",unsupported_claim_or_hallucination
+answer the following health question in simple language for a general audience: Complications of herniorrhaphy,"•	Hemorrhage 
+•	Hematoma 
+•	Infection 
+•	Haematocoele 
+•	Hyperesthesia over the medial side of the inguinal canal due to ilioinguinal nerve damage 
+•	Recurrence of hernia 
+•	Osteitis pubis 
+•	Injury to urinary bladder, bowel; 
+•	Testicular atrophy",Herniorrhaphy can lead to:,"Complications of herniorrhaphy include thrombosis, hemorrhage, and thrombosis.","Complications of herniorrhaphy include thrombosis, thrombosis, and a variety of other complications.",unsupported_claim_or_hallucination
+answer the following health question in simple language for a general audience: a.	Mention Two common micronutrient deficiencies in Malawi,"i.	Iron deficiency
+ii.	Iodine deficiency",Malawi is a country with a high prevalence of micronutrient deficiency.,"Micronutrient deficiencies are common in Malawi, particularly in areas with limited access to clean water and sanitation facilities.","Micronutrient deficiencies are common in Malawi, particularly in areas with limited access to clean water and sanitation facilities.",correct_useful
+"answer the following health question in simple language for a general audience: A 60-year male presents with a palpable right upper quadrant mass suspicious of a hepatocellular carcinoma. He is scheduled for a liver resection surgery.
+
+List 4 important modifiable aetiological factors for HCC.","Control alcohol abuse, hepatitis B,C transmission reduction , (screen blood transfusion,, unsafe sex , IV drug use) , screening and treatment of hepatitis carriers ( antiviral drugs), limit  Aflatoxins ingestion, control  Toxin exposures (copper, iron), control smoiking,
+Control obesity /diet / NAFLD","hepatitis B, hepatitis C, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, hepatitis B, he","List 4 important modifiable aetiological factors for HCC include hepatitis B virus (HBV) infection, hepatitis C virus (HCV) infection, and hepatitis B virus (HBV) infection.","Hepatitis B virus (HBV) infection, hepatitis B virus (HBV) infection, and hepatitis B virus (HBV) infection are common modifiable aetiological factors for HCC.",incomplete
+answer the following health question in simple language for a general audience: What are the two signs and symptoms of hyperthyroidism?,"a. Tachycardia 
+b. Weight loss",hyperthyroidism,"Hyperthyroidism is caused by the presence of thyroid hormones in the thyroid gland, leading to hyperthyroidism. The presence of thyroid hormones in the thyroid gland contributes to hyperthyroidism, leading to hyperthyroidism. The presence of thyroid hormones in the thyroid gland contributes to hyperthyroidism, leading to hyperthyroidism. The presence of thyroid hormones in the thyroid gland contributes to hyperthyroidism, leading to hyperthyroidism. The presence of thyroid hormones in the thyroid gland contributes to hyperthyroidism, leading","Hyperthyroidism is caused by the presence of thyroid hormones in the thyroid gland, leading to thyroid hormone imbalances, thyroid hormone deficiency, and thyroid hormone imbalances.",irrelevant
+answer the following health question in simple language for a general audience: BREAST CANCER: Staging (TNM and Manchester staging),"•	T1-<2cm 
+•	T2-2-5cm 
+•	T3->5cm 
+•	T4-tumor extends to the skin or chest wall 
+•	N1-mobile axillary nodes 
+•	N2-firm/fixed axillary nodes 
+•	N3-supraclavicular lymph nodes 
+•	M1-Metastasis",thrombosis,Staging (TNM and Manchester staging) is a safe and effective method for preventing the spread of hepatitis B virus (HBV) in children.,"Staging (TNM and Manchester staging) is a common method used to manage the symptoms of adenocarcinoma in patients with adenocarcinoma. Staging is a common method used to manage the symptoms of adenocarcinoma in patients with adenocarcinoma, such as adenocarcinoma, adenocarcinoma, adenocarcinoma, or adenocarcinoma.",unsupported_claim_or_hallucination
+answer the following health question in simple language for a general audience: List FOUR (4) causes that may result in dehydration and electrolyte loss in this patient ?,"Reduced oral intake
+Defective intestinal absorption
+Vomiting
+Sequestration in the bowel lumen.",electrolyte deficiency,"Dehydration and electrolyte loss in this patient may be caused by a variety of factors, including factors such as lack of electrolyte, inadequate water intake, and inadequate electrolyte levels.",Factors that may result in dehydration and electrolyte loss in this patient include:,unsupported_claim_or_hallucination
+answer the following health question in simple language for a general audience: 3 organisms that can cause dysentery,"a. Shigella dysentery 
+b. Campylobacter enterocolitis 
+c. Entamoeba histolytica","Bacteria, viruses, and fungi","3 organisms that can cause dysentery include bacteria, viruses, and parasites.","3 organisms that can cause dysentery include bacteria, viruses, and parasites.",incomplete
+"answer the following health question in simple language for a general audience: A 45-year-old woman is referred to the general surgical outpatients after her GP noticed a swelling in the neck. On questioning, the patient reports losing about 12 kg in weight over the preceding 3 months, despite having an increased appetite. She also complains that she always feels hot and has to sleep on top of the bed covers at night. Her bowel motions have been loose. On further examination the surgeon makes a diagnosis of Grave’s disease.
+
+What are the initial investigations of this patient?","Bloods:
+o	Thyroid function tests
+o	Thyroid peroxidase antibodies (TPO Abs)
+o	TSH receptor antibodies (TR Abs)
+Imaging:
+o	Ultrasound (USS)
+Pathology:
+o	Fine needle aspiration (FNA)",a swelling in the neck,"Grave’s disease is the primary cause of bowel obstruction in this patient. The patient is referred to the general surgical outpatients after her GP noticed a swelling in the neck. On questioning, the patient reports losing about 12 kg in weight over the preceding 3 months, despite having an increased appetite. She also complains that she always feels hot and has to sleep on top of the bed covers at night. Her bowel motions have been loose. On further examination the surgeon makes a diagnosis of Grave’s disease.","The patient is referred to the general surgical outpatients after her GP noticed a swelling in the neck. On questioning, the patient reports losing about 12 kg in weight over the preceding 3 months, despite having an increased appetite. She also complains that she always feels hot and has to sleep on top of the bed covers at night. Her bowel motions have been loose. On further examination the surgeon makes a diagnosis of Grave’s disease.",potentially_unsafe
+answer the following health question in simple language for a general audience: Prevention of breast ca,"•	Avoid avoidable risk factors 
+•	Encourage breastfeeding 
+•	Health Education 
+•	Population screening- 
+•	history-risk factors 
+•	CBE-clinical breast exam 
+•	BSE-breast self-exam 
+•	Prophylactic anti-estrogens 
+•	Early diagnosis and early treatment 
+•	Prophylactic mastectomy in high-risk patients",breast cancer,Prevention of breast causative disease,Prevention of breast causation,irrelevant
+answer the following health question in simple language for a general audience: Thoracotomy indications,"•	Resuscitation thoracotomy:  To do open cardiac massage. 
+•	Emergency thoracotomy:  
+For massive hemothorax, cardiac tamponade, major air leak, great vessel injury, intrathoracic foreign body and chest wall defect. 
+•	Elective thoracotomy: (done in after investigations): 
+For diaphragmatic injuries, esophageal injuries, intracardiac injuries, aortic rupture with false aneurysm, clotted hemothorax and empyema. 
+ 
+After chest tube insertion 
+•	Drainage of > 1500mls of blood in 24 hours 
+•	Continuous bubbling after 24 hours 
+•	Drainage of blood > 300mls/h for 3 consecutive hours",Thoracotomy is a type of thoracococcal disease. Thoracotomy is the most common cause of thoracococcal disease. Thoracotomy is the most common cause of thoracococcal disease. Thoracotomy is the most common cause of thoracococcal disease. Thoracotomy is the most common cause of thoracococcal disease. Thoracotomy is the most common cause of thoracococcal disease. Thoracotomy is the most common,"Thoracotomy is characterized by the presence of thoracotomy fluid in the lungs, as well as the presence of thoracotomy fluid in the lungs. The presence of thoracotomy fluid in the lungs is a common symptom of thoracotomy.","Thoracotomy indications include the presence of thoracotomy fluid in the lungs, the presence of thoracotomy fluid in the lungs, and the presence of thoracotomy fluid in the lungs.",unsupported_claim_or_hallucination
+answer the following health question in simple language for a general audience: Abdominal X-ray features of sigmoid volvulus,"a)	Coffee bean sign 
+b)	Bent inner tube sign 
+c)	Rigler sign 
+d)	Left flank overlap sign 
+e)	Northern exposure sign on a supine abdominal X-ray 
+Bird beak sign on contrast study",The sigmoid volvulus is a large occipital artery in the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rectum of the rect,"Abdominal X-ray features of sigmoid volvulus can reveal a variety of abnormalities, including the presence of a splenomegaly or a splenomegaly. Abdominal X-ray features may reveal a variety of abnormalities, including the presence of a splenomegaly or a splenomegaly. Abdominal X-ray features may reveal a variety of abnormalities, including the presence of a splenomegaly or a splenomegaly.","Abdominal X-ray features of sigmoid volvulus include abdominal X-rays of the rectum, rectum, and rectum, as well as abdominal X-rays of the rectum, rectum, and rectum. Abdominal X-rays of sigmoid volvulus can reveal rectum, rectum, and rectum, as well as rectum, rectum, and rectum. Abdominal X-rays of sigmoid volvulus can reveal ",incomplete
+answer the following health question in simple language for a general audience: What is the management of this disorder Inguinal hernia in children?,-	Herniotomy,Inguinal hernia is a condition in which the inguinal hernia becomes inflamed and becomes inflamed.,Management of this disorder Inguinal hernia in children is primarily based on surgical intervention and supportive care.,Management of this disorder Inguinal hernia in children is primarily based on supportive care and supportive care.,unsupported_claim_or_hallucination
+answer the following health question in simple language for a general audience: List four acyanotic cardiac conditions.,"Ventricular septal defect (VSD), 
+Atrial septal defect (ASD), 
+Patent ductus arteriosus (PDA), 
+Pulmonary  valve stenosis, 
+Aortic  valve stenosis,
+Coarctation  of the aorta.","heart attack, stroke, pulmonary embolism, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edema, pulmonary edem",List four acyanotic cardiac conditions: Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hypertension Cardiac hyper,"Acyanotic cardiac conditions include hypertension, hypertension, hypertension, and hypertension.",unsupported_claim_or_hallucination
+"answer the following health question in simple language for a general audience: Andrew, a 3-year-old boy was brought to a clinic because he had been sick with diarrhea for the last 3 days. He is well nourished, and low-grade fever, if this boy was having severe dehydration which signs would he have?","a)	Lethargy/ unconsciousness
+b)	Sunken eyes
+c)	Unable to drink/ drink poorly
+d)	Skin pinch goes back very slowly (>2 seconds)",low-grade fever,"Dehydration symptoms include diarrhea, vomiting, and fever.","He would have diarrhea for the last 3 days, and low-grade fever. If he was having severe dehydration, he would have low-grade fever, and low-grade fever. If he was having severe dehydration, he would have low-grade fever, and low-grade fever. If he was having severe dehydration, he would have low-grade fever, and low-grade fever. If he was having severe dehydration, he would have low-grade fever, and low-grade fever. If he was having severe dehydration, he",incomplete
+answer the following health question in simple language for a general audience: Write short notes on Acute pancreatitis under the following subheadings: Management,"1. Management is supportive 
+2. Fluid therapy to correct dehydration. Use isotonic crystalloids. Consider comorbidities like CCF when administering fluids to prevent complications associated with fluid overload 
+3. Insert urethral catheter, monitor fluid input output using a fluid chart 
+4. Nutritional support. Initially NPO if no bowel sounds. If there are bowel sounds oral sibs. To those who can’t feed consider TPN, or enteral feeding through NG tube, NJ tube 
+5. NG tube decompression in persistent Nausea and vomiting. Anti-emetics such as Ondansetron 
+6. Analgesia for the pain 
+7. Correct electrolyte imbalances",Acute pancreatitis,"Acute pancreatitis is characterized by the presence of acute pancreatitis in the pancreas. Management includes supportive care, supportive care, and supportive care.","Answer: Acute pancreatitis (Acute pancreatitis) is a common inflammatory bowel disease (IBD) caused by the inflammatory bowel disease (IBD) of the pancreas. Management includes supportive care, antibiotics, and supportive care.",unsupported_claim_or_hallucination
+answer the following health question in simple language for a general audience: What is ANDI and examples,"Aberration in the normal development and involution of the breast. Involves a wide spectrum of benign breast disease. 
+ 
+Some examples of ANDI 
+•	Polymastia and polythelia 
+•	Accessory axillary breast tissue 
+•	Cyclical nodularity and mastalgia 
+•	Cysts 
+•	Fibroadenoma 
+•	Duct ectasia 
+•	Fibrocystic change 
+•	Galactocele 
+•	Puerperal abscess",ANDI may refer to:,ANDI may refer to:,"ANDI is a broad-spectrum approach to promoting healthy lifestyles and improving health outcomes for people with diabetes, hypertension, and cardiovascular disease.",unsupported_claim_or_hallucination
+"answer the following health question in simple language for a general audience: What are the drug groups that improve mortality-beta-blockers and angiotensin inhibitors
+
+Mention six physical examination findings one would note in a patient that presents with cardiac tamponade","a. Muffled heart sounds 
+b. Raised JVP 
+c. Hypotension 
+d. Tachycardia 
+e. Kussmaul’s sign (rise in JVP on inspiration) 
+f. Pulsus paradoxus (systolic BP drop more than 10mmHg on inspiration)",Cardiac tamponade,"Drug groups that improve mortality-beta-blockers and angiotensin inhibitors include acetaminophen, acetaminophen, and angiotensin inhibitors.","Drug groups that improve mortality-beta-blockers and angiotensin inhibitors include tylenol, doxycycline, and doxycycline-based angiotensin inhibitors.",irrelevant
+"answer the following health question in simple language for a general audience: Differences between Caput succedaneum, Subgaleal hemorrhages and Cephalohematoma","a.	Caput succedaneum
+i.	 It is diffuse subcutaneous fluid collection with poorly defined margin often crossing the suture lines caused by pressure on the presenting part of the head during delivery. 
+ii.	It does not usually cause complications and resolves over the first few days
+
+b.	Subgaleal hemorrhages
+i.	It occurs between the scalp and the periosteum and form a large, fluctuant collection which crosses suture lines.
+ii.	They are rare but may cause life-threatening blood loss
+
+c.	Cephalohematoma
+i.	It is a sub-periosteal hemorrhage which occurs in 1-2% of infants and may increase in size after birth.
+ii.	The hemorrhage is bound to periosteum, the swelling does not cross the suture line in contrast to a caput succedaneum
+iii.	More common with instrumental delivery and may cause jaundice","Caput succedaneum, Subgaleal hemorrhages and Cephalohematoma","Caput succedaneum, Subgaleal hemorrhages, and Cephalohematoma are caused by the presence of subgaleal parasites in the blood.","Caput succedaneum, also known as Subgaleal hemorrhages or Cephalohematoma, is a bacterium from the genus of ""Caput succedaneum"" that is transmitted through the bite of infected mosquitoes.",unsupported_claim_or_hallucination

@@ -1,0 +1,13 @@
+test_subset,system,exact_match,token_f1,rougeL
+fixed 20 (as Runs A-D),A - zero-shot flan-t5-base (baseline),0.0,0.0266,0.0304
+fixed 20 (as Runs A-D),"D - fine-tuned, 3 epochs (notebook decoding)",0.0,0.0588,0.0551
+fixed 20 (as Runs A-D),D + repetition-penalty decoding,0.0,0.0594,0.0557
+fixed 20 (as Runs A-D),R - retrieval only (nearest clinician answer),0.0,0.0526,0.0445
+fixed 20 (as Runs A-D),"E-base - RAG, k=1, NOT fine-tuned",0.0,0.0428,0.0419
+fixed 20 (as Runs A-D),"E - RAG, k=1, fine-tuned Run D",0.0,0.0596,0.053
+full test set (386),A - zero-shot flan-t5-base (baseline),0.0026,0.0589,0.055
+full test set (386),"D - fine-tuned, 3 epochs (notebook decoding)",0.0,0.0857,0.0742
+full test set (386),D + repetition-penalty decoding,0.0,0.0934,0.0783
+full test set (386),R - retrieval only (nearest clinician answer),0.0,0.0603,0.0464
+full test set (386),"E-base - RAG, k=1, NOT fine-tuned",0.0026,0.0503,0.0444
+full test set (386),"E - RAG, k=1, fine-tuned Run D",0.0,0.0835,0.0705

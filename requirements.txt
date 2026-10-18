@@ -1,0 +1,14 @@
+transformers>=4.41
+datasets>=2.19
+accelerate>=0.30
+evaluate
+rouge_score
+sentencepiece
+scikit-learn
+matplotlib
+pandas
+numpy
+torch
+streamlit>=1.35
+sentence-transformers>=3.0
+peft>=0.11

@@ -1,0 +1,7 @@
+stage,rows
+Raw dataset,15275
+Drop MCQ types,11236
+Drop rows with no written answer,1405
+Train,917
+Validation,102
+Test,386

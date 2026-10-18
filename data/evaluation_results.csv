@@ -1,0 +1,5 @@
+model,exact_match,token_f1,rougeL
+A - baseline,0.0,0.0266,0.0304
+B - pilot,0.0,0.0524,0.0459
+C - full train set,0.0,0.0442,0.0461
+"D - full train set, 3 epochs",0.0,0.0588,0.0548
