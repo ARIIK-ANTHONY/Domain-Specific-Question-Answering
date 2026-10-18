@@ -5,7 +5,7 @@ It is a chatbot that answers general health questions in plain English for peopl
 Sudan. It holds a short conversation, corrects spelling mistakes, and refuses to diagnose,
 give medicine doses or handle emergencies itself.
 
-- **Live system:** _link added after deployment_
+- **Live system:** https://huggingface.co/spaces/Ariik/south-sudan-health-qa
 - **Demo video:** _link added after recording_
 
 **This is not a medical tool.** It gives general health information only, and it can be wrong.
@@ -193,8 +193,10 @@ Tests: `python -m pytest tests/`.
 
 ## Deployment
 
-The app runs as a Docker Space on Hugging Face (free CPU: 2 vCPUs, 16 GB of memory), built
-from `deploy/`. Without a GPU, each answer takes about 30 to 90 seconds.
+The app is a Streamlit web app. The final model (Qwen2.5-1.5B with the LoRA adapter) needs
+about 6 GB of memory. `deploy/` has a Dockerfile (Hugging Face Docker Space) and
+`deploy/modal_app.py` (Modal, T4 GPU: `modal deploy deploy/modal_app.py`). Streamlit Community
+Cloud was too small: the app installed but ran out of memory while loading the model.
 
 ## Limitations
 
